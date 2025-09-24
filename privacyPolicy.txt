@@ -1,67 +1,65 @@
-感谢您信任并选择我们的游戏《合成与冒险》，本软件尊重并保护所有使用服务用户的个人隐私权。本软件由“TDB恶魔书”开发并发行。为了给您提供更准确、更有个性化的服务，本软件会按照本隐私权政策的规定使用和披露您的个人信息。但本软件将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，本软件不会将这些信息对外披露或向第三方提供。本软件会不时更新本隐私权政策。您在同意本软件服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于本软件服务使用协议不可分割的一部分。
-更新日期：2025年7月28日
-生效日期：2025年7月28日
-您在使用我们的游戏及服务时我们可能获取的您的信息：
-设备或网络信息：设备或网络信息：为保障您正常使用我们的游戏及服务，确保游戏及服务功能的正常运行，优化游戏产品体验，保障您的账号安全，我们可能会收集您的设备ID、设备名称、设备类型等信息，用于为游戏的自动存档和自动读档使用。
-获取设备传感器：游戏带有横屏和竖屏切换功能，为了确保您的游戏体验，我们可能会获取重力传感器来完成横屏与竖屏之间的转换。
-获取广告ID权限：游戏带有广告播放功能，为了确保您的游戏体验以及广告的正常播放，我们可能会获取广告ID来完成与第三方广告的交互。
-获取控制振动权限：游戏带有振动功能，为了确保您的游戏体验，我们可能会振动带来更好的游戏体验。
-第三方SDK隐私政策链接隐私安全说明：
-unity3d引擎
-应用场景：框架
-获取的信息：Android ID、设备传感器信息、获取MEID；
-Topon广告聚合
-使用目的：广告推送
-收集信息类型：屏幕大小，屏幕方向，设备生产商，设备型号，设备id，操作系统及版本，当前应用包名、版本和特性，应用安装来源，运营商信息，网络连接类型，MAC地址，IP地址，用户代理， 国家、时区和区域设置（国家和系统首选语言），时间戳，Android_ID，IMEI，移动广告标识符（如苹果IDFA或谷歌广告ID），已安装APP信息，运行中进程信息。同时，我们的该商业伙伴还可能会收集您与我们所推广的广告发生互动的信息，如浏览、点击了该广告的相关信息，获取SSID、OAID。
-收集用途说明：基于您的设备信息调整广告投放策略，基于您的设备分析广告行为（如广告加载、展示、点击等），用于向您推送个性化广告展示。
-TalkingData
-使用目的：基础统计
-TalkingData SDK仅会出于本政策所述的以下目的，收集和使用您的个人信息。除非专门说明的海外/国际版网站或产品，本服务仅面向中华人民共和国大陆地区用户提供。如果您位于中华人民共和国大陆地区之外，可能涉及其他法域的数据及个人信息的收集、存储、使用、共享等的不同监管要求。如适用，您同时还应遵守《境外个人信息保护合规承诺》的相关规定;
-获取BSSID、Android ID、MEID、MAC地址、应用安装列表
-当我们要将信息用于本政策未载明的其他用途时，会事先征求您的同意。
-当我们要将基于特定目的收集而来的信息用于其他目的时，会事先征求您的同意。
-Bugly
-使用目的：统计程序错误信息
-我们遵循正当、合法、必要的原则，基于为第三方提供 APP 崩溃分析及更
-新能力的目的，收集和使用如下个人信息：
-1、App 开发者和/或终端用户主动提供或我们直接收集的个人信息；
-2、从App 开发者获取的App 开发者和/或终端用户的个人信息。
-我们会在本声明中载明收集的个人信息用途，如果我们要将收集个人信息用
-于本声明未载明的其它用途，我们会以合理的方式向 App 开发者和/或终端用户告知。
-优量汇SDK
-使用目的：广告推送
-我们遵循正当、合法、必要的原则，基于为第三方提供 APP 崩溃分析及更
-获取Android ID、IP地址、传感器信息、应用安装列表；
-穿山甲广告SDK
-使用目的：广告推送
-我们遵循正当、合法、必要的原则，基于为第三方提供 APP 崩溃分析及更
-获取Android ID、MAC地址、应用安装列表；
-Tap SDK
-使用目的：统计
-我们遵循正当、合法、必要的原则，基于为第三方提供 APP 崩溃分析及更
-获取Android ID；
-MSA移动安全联盟SDK
-使用目的：统计
-我们遵循正当、合法、必要的原则，基于为第三方提供 APP 崩溃分析及更
-获取OAID
-我们如何使用您的数据
-我们可将您的数据用作下列用途：
-向您提供我们的服务；
-在我们提供服务时用作客户服务、保安、诈骗侦测、存档和后备用途；
-为更了解您如何接入和使用我们的服务、为尝试改善我们的服务及响应客户的意愿和喜好，包括语言设定、位置设定、个人化的支持服务和指示，或就您和其他使用我们服务的客户给予其他响应；
-有助我们建立新服务，改善我们现有服务；
-评估有关我们服务的宣传和其他促销及推广活动的效力，并加以改善；
-为软件认证或管理软件升级；
-信息披露
-本软件不会将您的信息披露给不受信任的第三方；
-根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露；
-如您出现违反中国有关法律、法规或者相关规则的情况，需要向第三方披露；
-信息存储和交换
-本软件收集的有关您的信息和资料将保存在本软件及（或）其关联公司的服务器上，这些信息和资料可能传送至您所在国家、地区或本软件收集信息和资料所在地被访问、存储和展示。
-信息安全
-在使用本软件网络服务进行网上交易时，您不可避免的要向交易对方或潜在的交易对方披露自己的个人信息，如联络方式或者邮政地址。请您妥善保护自己的个人信息，仅在必要的情形下向他人提供。如您发现自己的个人信息泄密，请您立即联络本软件客服，以便本软件采取相应措施。
-未成年人保护
-我们高度重视未成年人个人信息保护，并持续探索更好的未成年人个人信息保护方式。
-若您是未成年人的法定监护人，请您关注您所监护的未成年人是否是在取得您的授权同意之后使用我们的服务或提供其个人信息。如果您对您所监护的未成年人的个人信息有疑问，请通过卸载游戏的方式删除实名认证信息。
-我们会积极按照国家防沉迷政策要求，通过启用防沉迷系统保护未成年人的合法权益。我们会通过实名认证和防沉迷服务进行校验判断相关账号的实名信息是否为未成年人，进而决定是否将此账号纳入到防沉迷体系中。另外，我们会收集您的登录时间、游戏时长信息，通过从系统层面自动干预和限制未成年人游戏时间、启用强制下线功能方式，引导未成年人合理游戏，并在疑似未成年人消费后尝试联系其监护人进行提醒、确认与处理，帮助未成年人健康上网。
-联系方式:1392944365@qq.com
+Thank you for trusting and choosing our game 《Merge & Venture》. This software respects and protects the personal privacy rights of all users who use its services. This software is developed and published by "TDB Devil Book". To provide you with more accurate and personalized services, this software will use and disclose your personal information in accordance with the provisions of this Privacy Policy. However, this software will treat such information with a high degree of diligence and prudence. Except as otherwise specified in this Privacy Policy, this software will not disclose such information to the public or provide it to third parties without your prior permission. This Privacy Policy will be updated from time to time. When you agree to the Software Service Usage Agreement, you are deemed to have agreed to all the contents of this Privacy Policy. This Privacy Policy is an integral part of the Software Service Usage Agreement.
+Update Date: July 28, 2025
+Effective Date: July 28, 2025
+Information We May Collect When You Use Our Game and Services
+1. Device or Network Information
+To ensure your normal use of our game and services, maintain the proper operation of game and service functions, optimize the game product experience, and protect the security of your account, we may collect information such as your Device ID, device name, and device type. This information is used for the game's automatic save and auto-load functions.
+2. Device Sensors Access
+The game supports screen rotation between landscape and portrait modes. To ensure your game experience, we may access the gravity sensor to enable the switch between landscape and portrait screens.
+3. Ad ID Permission Access
+The game includes an ad-playing function. To ensure your game experience and the normal playback of ads, we may access the Ad ID to enable interaction with third-party ads.
+4. Vibration Control Permission Access
+The game includes a vibration function. To enhance your game experience, we may use vibration to provide a better gaming experience.
+Privacy and Security Statement for Third-Party SDKs (with Privacy Policy Links)
+1. Unity3D Engine
+Application Scenario: Framework
+Information Collected: Android ID, device sensor information, MEID
+2. TopOn Ad Aggregation
+Purpose of Use: Ad Delivery
+Types of Information Collected: Screen size, screen orientation, device manufacturer, device model, device ID, operating system and version, current app package name, version and features, app installation source, carrier information, network connection type, MAC address, IP address, user agent, country/region, time zone and regional settings (country and system-preferred language), timestamp, Android_ID, IMEI, mobile ad identifiers (e.g., Apple IDFA or Google Ad ID), list of installed apps, and information about running processes. Additionally, our business partners may collect information about your interactions with the ads we promote, such as details about viewing or clicking on the ads, as well as SSID and OAID.
+Description of Collection Purpose: Adjust ad delivery strategies based on your device information; analyze ad behaviors (e.g., ad loading, display, clicks) based on your device; and deliver personalized ads to you.
+3. TalkingData
+Purpose of Use: Basic Statistics
+The TalkingData SDK will only collect and use your personal information for the following purposes as stated in this Policy. Except for specially specified overseas/international versions of websites or products, this service is only provided to users in the Chinese Mainland. If you are located outside the Chinese Mainland, it may be subject to different regulatory requirements regarding the collection, storage, use, and sharing of data and personal information in other jurisdictions. Where applicable, you shall also comply with the relevant provisions of the Commitment to Compliance with Overseas Personal Information Protection.
+Information Collected: BSSID, Android ID, MEID, MAC address, list of installed apps
+When we intend to use your information for other purposes not specified in this Policy, we will seek your consent in advance. When we intend to use information collected for specific purposes for other purposes, we will also seek your consent in advance.
+4. Bugly
+Purpose of Use: Statistics on Program Error Information
+We adhere to the principles of legality, legitimacy, and necessity. For the purpose of providing third parties with APP crash analysis and update capabilities, we collect and use the following personal information:
+Personal information proactively provided by APP developers and/or end users, or directly collected by us;
+Personal information of APP developers and/or end users obtained from APP developers.
+We will specify the purposes of collecting personal information in this statement. If we intend to use the collected personal information for other purposes not specified in this statement, we will inform APP developers and/or end users in a reasonable manner.
+5. Youlianghui (YLH) SDK
+Purpose of Use: Ad Delivery
+We adhere to the principles of legality, legitimacy, and necessity. For the purpose of providing third parties with APP crash analysis and update capabilities, we collect: Android ID, IP address, sensor information, list of installed apps.
+6. Chuanshanjia (CSJ) Ad SDK
+Purpose of Use: Ad Delivery
+We adhere to the principles of legality, legitimacy, and necessity. For the purpose of providing third parties with APP crash analysis and update capabilities, we collect: Android ID, MAC address, list of installed apps.
+7. Tap SDK
+Purpose of Use: Statistics
+We adhere to the principles of legality, legitimacy, and necessity. For the purpose of providing third parties with APP crash analysis and update capabilities, we collect: Android ID.
+8. MSA (Mobile Security Alliance) SDK
+Purpose of Use: Statistics
+We adhere to the principles of legality, legitimacy, and necessity. For the purpose of providing third parties with APP crash analysis and update capabilities, we collect: OAID.
+How We Use Your Data
+We may use your data for the following purposes:
+To provide you with our services;
+For customer service, security, fraud detection, archiving, and backup purposes when providing our services;
+To better understand how you access and use our services, attempt to improve our services, and respond to customer preferences and needs (including language settings, location settings, personalized support services and guidance), or provide other responses to you and other users of our services;
+To help us develop new services and improve our existing services;
+To evaluate and improve the effectiveness of promotions, and other marketing and promotional activities related to our services;
+For software authentication or managing software updates.
+Information Disclosure
+This software will not disclose your information to untrusted third parties;
+Disclose to third parties, administrative authorities, or judicial institutions in accordance with relevant legal provisions or the requirements of administrative or judicial institutions;
+Disclose to third parties if you violate relevant Chinese laws, regulations, or related rules.
+Information Storage and Transfer
+The information and data about you collected by this software will be stored on the servers of this software and/or its affiliated companies. Such information and data may be transmitted to, accessed, stored, and displayed in the country/region where you are located or where this software collects the information and data.
+Information Security
+When using the online transaction function of this software's network service, you will inevitably need to disclose your personal information (such as contact information or postal address) to the transaction counterparty or potential transaction counterparty. Please properly protect your personal information and only provide it to others when necessary. If you find that your personal information has been leaked, please contact our software customer service immediately so that we can take corresponding measures.
+Protection of Minors
+We attach great importance to the protection of minors' personal information and continuously explore better ways to protect minors' personal information.
+If you are the legal guardian of a minor, please pay attention to whether the minor under your guardianship uses our services or provides their personal information with your authorized consent. If you have any questions about the personal information of the minor under your guardianship, please delete the real-name authentication information by uninstalling the game.
+We will actively comply with national anti-addiction policies and protect the legitimate rights and interests of minors by enabling the anti-addiction system. We will verify and determine whether the real-name information of the relevant account belongs to a minor through real-name authentication and anti-addiction services, and then decide whether to include the account in the anti-addiction system. In addition, we will collect your login time and game duration information. By automatically intervening and restricting minors' game time at the system level and enabling the forced logout function, we will guide minors to play games rationally. After a suspected minor consumption occurs, we will attempt to contact their guardian to provide reminders, confirmation, and handling, helping minors use the Internet healthily.
+Contact Information
+yuf026904@gmail.com
